@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 #!/bin/bash
+=======
+<<<<<<< HEAD
+#!/bin/bash
+=======
+#!/bin/bash/
+>>>>>>> cc23b6bcc7d8a3ce0ae15e9557f6e538668a4681
+>>>>>>> 9411de981a53a01bf9e1b9b8a0235bd55b511b76
 su betty
